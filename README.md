@@ -9,10 +9,7 @@ In this techhub we will manage the resources of eks cluster using the kubernetes
 * AWS IAM Authenticator
 * kubectl
 
-1. ### Install AWSCLI
-
- To install AWSCLI run the following command:
-
+ ### Install AWSCLI
 
 ### Configure AWS 
 
