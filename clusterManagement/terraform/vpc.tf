@@ -11,8 +11,8 @@ provider "kubernetes" {
 
 provider "aws"{
 region = "us-east-1"
-access_key = "AKIAQUYOFOHXZHL4T2NL"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 }
 data "aws_availability_zones" "available" {}
 
